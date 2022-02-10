@@ -1,1 +1,1 @@
-web: gunicorn music_bits.wsgi:application
+web: gunicorn music-talk.wsgi:application
